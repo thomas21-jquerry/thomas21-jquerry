@@ -1,8 +1,10 @@
 <p align="left" width="100%"> <img src="https://media3.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e47g2gd6hi4rzpyrysih5lm7wtp780yboh95hv77ba1&rid=giphy.gif&ct=g" width="100%"/> </p>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas21-jquerry" alt="thomas21-jquerry" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas21-jquerry" alt="thomas21-jquerry" /> </p> -->
 
 ### Hi there 👋 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hhhrrrttt222111&show_icons=true&theme=tokyonight" alt="hrt" /> </p>  <br>
 
 <!--
 **thomas21-jquerry/thomas21-jquerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
