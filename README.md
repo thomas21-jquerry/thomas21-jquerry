@@ -1,4 +1,6 @@
-# ![Thomas Jose header](https://media3.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e47g2gd6hi4rzpyrysih5lm7wtp780yboh95hv77ba1&rid=giphy.gif&ct=g){:width=100%}
+<p align="left"> <img src="https://media3.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e47g2gd6hi4rzpyrysih5lm7wtp780yboh95hv77ba1&rid=giphy.gif&ct=g"/> </p>
+  
+  ![Thomas Jose header](https://media3.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e47g2gd6hi4rzpyrysih5lm7wtp780yboh95hv77ba1&rid=giphy.gif&ct=g)
 
 ### Hi there 👋 
 
