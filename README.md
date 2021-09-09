@@ -4,7 +4,7 @@
 
 ### Hi there 👋 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hhhrrrttt222111&show_icons=true&theme=tokyonight" alt="hrt" /> </p>  <br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thomas21-jquerry&show_icons=true&theme=tokyonight" alt="hrt" /> </p>  <br>
 
 <!--
 **thomas21-jquerry/thomas21-jquerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
