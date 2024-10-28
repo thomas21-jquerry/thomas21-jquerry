@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m an enthusiastic software developer focused on Ethereum Solana and various other chains. Right now, I’m diving into the world of MEVs.
+Hey! I’m an enthusiastic software developer focused on Ethereum, Solana and various other chains. Right now, I’m diving into the world of MEVs.
 
 
 ## 🌐 Socials:
