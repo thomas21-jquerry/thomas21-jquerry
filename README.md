@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey! I’m an enthusiastic software developer focused on Ethereum, Solana and various other chains. Right now, I’m diving into the world of MEVs.  
-Check out my profile [here](https://portfolio-ten-blond-19.vercel.app/).
+Check out my profile [here](https://portfolio-ten-blond-19.vercel.app/)
 
 
 ## 🌐 Socials:
